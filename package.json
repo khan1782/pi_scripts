@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/khan1782/pi_scripts#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.9.0",
     "node-fetch": "^2.6.0",
     "node-schedule": "^1.3.2"
